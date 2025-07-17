@@ -10,7 +10,7 @@ Here I share a NodeJS project with SMTP
     ```
 To execute the app in this repository
 
-1.  Navigate to the directory containing the .py` files in your terminal.
+1.  Navigate to the directory containing the  files in your terminal.
 2.  Run the desired script using the Python interpreter:
     ```bash
     npm start
